@@ -1,4 +1,5 @@
-package Week3;
+
+package Week_3;
 
 /**
  * Week 3a: Inner classes and nested classes demonstration

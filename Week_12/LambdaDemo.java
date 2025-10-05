@@ -1,4 +1,4 @@
-package Week12;
+package Week_12;
 
 import java.util.function.Function;
 

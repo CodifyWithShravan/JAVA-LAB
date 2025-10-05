@@ -1,4 +1,4 @@
-package Week6;
+package Week_6;
 
 /**
  * Week 6b: Custom exception handling demonstration

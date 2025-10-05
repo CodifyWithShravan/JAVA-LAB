@@ -2,7 +2,7 @@
  * Week 4b: Abstract class Shape with Rectangle, Triangle, and Circle
  */
 
-package Week4;
+package Week_4;
 
 /**
  * Week 4b: Abstract class demonstration

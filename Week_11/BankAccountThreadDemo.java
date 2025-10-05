@@ -1,4 +1,4 @@
-package Week11;
+package Week_11;
 
 public class BankAccountThreadDemo {
     static class Account {

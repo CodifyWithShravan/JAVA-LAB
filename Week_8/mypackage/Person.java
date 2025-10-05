@@ -1,4 +1,4 @@
-package Week8.mypackage;
+package Week_8.mypackage;
 
 /**
  * Person demonstrates fields with different access modifiers inside a user-defined package.

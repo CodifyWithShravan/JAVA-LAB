@@ -1,4 +1,4 @@
-package Week8.mypackage;
+package Week_8.mypackage;
 
 public class AccessDemo {
     public static void main(String[] args) {

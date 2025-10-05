@@ -1,6 +1,6 @@
-package Week8;
+package Week_8;
 
-import Week8.mypackage.Person;
+import Week_8.mypackage.Person;
 
 public class AccessOutsideDemo extends Person {
     public static void main(String[] args) {

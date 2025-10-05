@@ -1,4 +1,4 @@
-package Week5;
+package Week_5;
 
 /**
  * Week 5b: Multiple inheritance using interfaces
