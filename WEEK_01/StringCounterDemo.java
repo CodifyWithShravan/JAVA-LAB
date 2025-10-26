@@ -57,6 +57,8 @@ public class StringCounterDemo {
         System.out.println("Consonants: " + consonants);
         System.out.println("Digits: " + digits);
         System.out.println("Special Characters (incl. spaces): " + specialChars);
+
+        scanner.close();
     }
 }
 

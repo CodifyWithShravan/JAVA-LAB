@@ -1,3 +1,5 @@
+package WEEK_01;
+
 import java.util.Scanner;
 
 /**
@@ -51,5 +53,6 @@ public class ArrayMinMaxDemo {
         
         System.out.println("\nMaximum value: " + max);
         System.out.println("Minimum value: " + min);
+        scanner.close();
     }
 }
